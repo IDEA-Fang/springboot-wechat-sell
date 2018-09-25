@@ -4,7 +4,7 @@
 
 项目设计
 #####功能设计
-![功能设计](showimg/Springbootsell-gongneng.png)
+![功能设计](https://github.com/IDEA-Fang/springboot-wechat-sell/blob/master/showimg/Springbootsell-gongneng.png)
 
 #####角色划分：
 
@@ -33,7 +33,7 @@
 4. 使用VO定义输出对象
 5. 实现表单转换成DTO功能
 
-![项目文件路径](showimg/springbootsell-mulu.png)
+![项目文件路径](https://github.com/IDEA-Fang/springboot-wechat-sell/blob/master/showimg/springbootsell-mulu.png)
 
 后端开发，按照dao->service->controller的api的顺序开发
 
